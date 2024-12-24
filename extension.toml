@@ -1,0 +1,10 @@
+id = "llvmir"
+name = "llvm IR"
+version = "0.0.1"
+schema_version = 1
+authors = ["Soham Tilekar <sohamtilekar233@gmail.com>"]
+description = "llvm ir language suport"
+repository = "https://github.com/SohamTilekar/zed-llvmir" # TODO: Change this to my repository
+[grammars.llvmir]
+repository = "https://github.com/benwilliamgraham/tree-sitter-llvm"
+rev = "c14cb839003348692158b845db9edda201374548"

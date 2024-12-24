@@ -1,0 +1,4 @@
+name = "LLVM IR"
+grammar = "llvmir"
+path_suffixes = ["ll"]
+line_comments = ["; "]
